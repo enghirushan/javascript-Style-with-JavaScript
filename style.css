@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#p1{
+
+  font-size: 50px;
+  color:blue;
+  text-decoration: underline;
+}
+
+#b1{
+  background-color: black;
+  color: yellowgreen;
+}
+#b2{
+  background-color: black;
+  color: yellowgreen;
+}
+#b3{
+  background-color: black;
+  color: yellowgreen;
+}
